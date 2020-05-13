@@ -1,4 +1,10 @@
-# vue
+# Clockr
+
+## About
+
+This is just a fun project, practically a `hello-world` vue project for me.
+
+Demo url: https://clockr-118cd.firebaseapp.com/
 
 ## Project setup
 ```
